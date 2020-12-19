@@ -26,7 +26,7 @@
       2. Read-Do: Doing the task in a step-by-step manner.
 2. Keep the Checklist Short => __Speedy__.
    1. 5 to 9 "killer" items.
-      1. Killer Item = If missed, will result in poor quality and could be detriment to lives or an experience.
+      1. Killer Item = If missed, will result in poor quality and could be a detriment to lives or an experience.
       2. Concentrate on the most important items i.e. most detrimental if missed.
    2. A quick to complete checklist.
    3. Keep the wording simple, precise and the terminology is resonant with the target audience.
